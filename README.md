@@ -1,7 +1,5 @@
 ## Hi there, I'm Yasitha Lalanga 👋
 
-<br />
-
 ### I'm a Tech Enthusiast , Youtuber and a Developer
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
