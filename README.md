@@ -37,9 +37,9 @@
 <br />
 <br />
 
----
+<!-- ---
 
-  <img align="center" alt="Yasithalalanga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yasithalalanga&count_private=true&show_icons=true&hide_border=true" />
+  <img align="center" alt="Yasithalalanga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yasithalalanga&count_private=true&show_icons=true&hide_border=true" /> -->
 
 [website]: https://yasithalalanga.github.io
 [twitter]: https://twitter.com/yasitha_lalanga
