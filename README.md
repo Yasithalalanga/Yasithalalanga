@@ -43,7 +43,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 <br />
----
 
 [![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&show_icons=true)](https://github.com/Yasithalalanga)
 
