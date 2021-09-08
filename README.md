@@ -1,45 +1,51 @@
-## Hi there, I'm Yasitha Lalanga 👋
+## Hey there, I'm Yasitha Lalanga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### I'm a Tech Enthusiast , Youtuber and a Developer
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
-- 👨🏼‍💻 I’m a Software engineer intern at iTelasoft (Pvt) Ltd.
-- ⚡ 2021 Goals: Learn new technologies and to contribute projects.
+- 👨🏼‍💻 Working as a Software engineer intern at iTelasoft (Pvt) Ltd.
+- ⚡ 2021 Goals: Learn new technologies and contribute to projects.
 - 🛩 Fun fact: I love to travel and explore.
 
-### Connect with me:
+<br />
 
-[<img align="left" alt="Yasithalalanga.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yasithalalanga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Yasithalalanga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Yasithalalanga | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Yasithalalanga | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Yasithalalanga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+**🤘 Connect**  
+
+[![Linkedin Badge](https://img.shields.io/badge/-YasithaGamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasitha-gamage/)](https://www.linkedin.com/in/yasitha-gamage/)
+[![Instagram Badge](https://img.shields.io/badge/-YasithaLalanga-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yasitha_lalanga/)](https://www.instagram.com/yasitha_lalanga/)
+[![Youtube Badge](https://img.shields.io/badge/-LiveGeekz-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/LiveGeekz)](https://www.youtube.com/c/LiveGeekz)
+[![Gmail Badge](https://img.shields.io/badge/-yasithamaxs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasithamaxs@gmail.com)](mailto:yasithamaxs@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-YasithaLalanga-black?style=flat-square&logo=medium&logoColor=white&link=https://yasithalalanga.github.io)](https://yasithalalanga.github.io)
 
 <br />
 
-### Languages and Tools:
+**⚡ Technologies**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 <br />
-<br />
+---
 
-<!-- ---
-
-  <img align="center" alt="Yasithalalanga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Yasithalalanga&count_private=true&show_icons=true&hide_border=true" /> -->
+[![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&show_icons=true)](https://github.com/Yasithalalanga)
 
 [website]: https://yasithalalanga.github.io
 [twitter]: https://twitter.com/yasitha_lalanga
