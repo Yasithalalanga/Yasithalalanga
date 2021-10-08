@@ -43,7 +43,7 @@
 
 <br />
 
-[![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&show_icons=true)](https://github.com/Yasithalalanga)
+[![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&count_private=true&show_icons=true)](https://github.com/Yasithalalanga)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasithalalanga&theme=dark)](https://git.io/streak-stats)
 
 [website]: https://yasithalalanga.github.io
