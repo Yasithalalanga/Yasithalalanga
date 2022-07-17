@@ -3,9 +3,7 @@
 ### I'm a Tech Enthusiast , Youtuber and a Developer
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
-- 👨🏼‍💻 Software engineer intern at iTelasoft (Pvt) Ltd.
-- ⚡ 2021 Goals: Learn new technologies and contribute to projects.
-- 🛩 Fun fact: I love to travel and explore.
+- 👨🏼‍💻 Associate Software Engineer at iTelasoft (Pvt) Ltd.
 
 <br />
 
@@ -40,11 +38,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 
 <br />
 
-[![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&count_private=true&show_icons=true)](https://github.com/Yasithalalanga)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasithalalanga&theme=dark)](https://git.io/streak-stats)
+<!-- [![Yasithalalanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&theme=dark&count_private=true&show_icons=true)](https://github.com/Yasithalalanga)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasithalalanga&theme=dark)](https://git.io/streak-stats) -->
 
 [website]: https://yasithalalanga.github.io
 [twitter]: https://twitter.com/yasitha_lalanga
