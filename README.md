@@ -1,9 +1,9 @@
 ## Hey there, I'm Yasitha Gamage <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Tech Enthusiast , Youtuber and a Developer
+### I'm a Tech Enthusiast , Developer and a Contect Creator
 
-- 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
-- 👨🏼‍💻 Associate Software Engineer at iTelasoft (Pvt) Ltd.
+- 🎓 Recently completed my Bachelor's Degree in Computer Science with first-class honors at Informatics Institute of Technology in affiliation with University of Westminster UK.
+- 👨🏼‍💻 Software Engineer at WSO2.
 
 <br />
 
