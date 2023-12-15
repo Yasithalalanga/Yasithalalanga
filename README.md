@@ -1,6 +1,6 @@
 ## Hey there, I'm Yasitha Gamage <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a Tech Enthusiast , Developer and a Contect Creator
+### I'm a Tech Enthusiast , Developer and a Content Creator
 
 - 🎓 Recently completed my Bachelor's Degree in Computer Science with first-class honors at Informatics Institute of Technology in affiliation with University of Westminster UK.
 - 👨🏼‍💻 Software Engineer at WSO2.
