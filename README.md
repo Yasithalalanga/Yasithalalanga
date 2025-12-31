@@ -72,7 +72,3 @@
 [instagram]: https://www.instagram.com/yasitha_lalanga
 [linkedin]: https://www.linkedin.com/in/yasitha-gamage
 [facebook]: https://web.facebook.com/yasitha.gamage.1
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasithalalanga&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasithalalanga&show_icons=true)
