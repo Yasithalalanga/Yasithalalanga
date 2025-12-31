@@ -2,7 +2,7 @@
 
 ### I'm a Tech Enthusiast , Developer and a Content Creator
 
-- 🎓 BSc (Hons) Computer Science, First-Class — University of Westminster, UK
+- 🎓 B.Sc (Hons) in Computer Science — University of Westminster, UK
 - 👨‍💻 Senior Software Engineer at EFFI Technologies AU.
 - 👨‍💻 Former Senior Software Engineer at WSO2.
 - 🔭 Founder of Neugine
